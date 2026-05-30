@@ -12,6 +12,8 @@ This repository contains my personal Python implementations, programming labs, a
 * [ Click the link to preview via NBViewer for SPECIAL MATRICES] https://nbviewer.org/github/matenemoeketsi-png/Mathematics-for-Machine-Learning/blob/main/01_Special_Matrices_Success.ipynb
 * [ Click the link to preview via NBViewer for GRAM SCHMIDT PROCESS] https://nbviewer.org/github/matenemoeketsi-png/Mathematics-for-Machine-Learning/blob/main/02_Gram_Schmidt_Process_Success.ipynb
 * [ Click the link to preview via NBViewer for REFLECTING BEAR] https://nbviewer.org/github/matenemoeketsi-png/Mathematics-for-Machine-Learning/blob/main/03_Reflecting_Bear_Success.ipynb
+
+* 
 * `/02_Multivariate_Calculus/`: Optimization algorithms and gradient calculations.
 * `/03_PCA/`: Complete dimensionality reduction pipeline on high-dimensional data.
 
