@@ -9,6 +9,9 @@ This repository contains my personal Python implementations, programming labs, a
 
 ## 📂 Project Structure
 * `/01_Linear_Algebra/`: Core matrix transformations and the PageRank algorithm implementation.
+* [ Click the link to preview via NBViewer for SPECIAL MATRICES] https://nbviewer.org/github/matenemoeketsi-png/Mathematics-for-Machine-Learning/blob/main/01_Special_Matrices_Success.ipynb
+* [ Click the link to preview via NBViewer for GRAM SCHMIDT PROCESS] 
+* [ Click the link to preview via NBViewer for REFLECTING BEAR] 
 * `/02_Multivariate_Calculus/`: Optimization algorithms and gradient calculations.
 * `/03_PCA/`: Complete dimensionality reduction pipeline on high-dimensional data.
 
